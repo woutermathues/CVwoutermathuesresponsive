@@ -128,8 +128,9 @@ body{
     font-weight: 300;
 }
 
-.contactinfo a{
+.contactinfo a:link{
     text-decoration: none;
+    color: #fff;
 }
 
 .contactinfo.education li{
