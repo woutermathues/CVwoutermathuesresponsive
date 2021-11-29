@@ -15,9 +15,13 @@ body{
     min-height: 100vh;
 }
 
-.download a{
+.download .fas{
     text-decoration: none;
     color: #03a9f4;
+}
+
+.download span{
+    color: #fff;
 }
 
 .fas{
